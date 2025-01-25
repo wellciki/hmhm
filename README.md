@@ -70,8 +70,8 @@
 </head>
 <body>
     <div class="wrapper">
-        <h2 class="question">Do You Like Kentut?</h2>
-        <img class="gif" alt="gif" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjJvdWZzYXc1NGJ6aGp1cDE3b2dyNnVzOGN1andkMjVrMmRzeGwwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3OhXBaoR1tVPW/giphy.gif" />
+        <h2 class="question">Do You Love Me???</h2>
+        <img class="gif" alt="gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlnamRuZHphOHE3b2preGtrbGVqZ3o0dTByNWpscXA2eG91ZDVreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CM1rHbKDMH2BW/giphy.gif" />
         <div class="btn-group">
             <button class="yes-btn">Yes</button>
             <button class="no-btn">No</button>
@@ -85,8 +85,8 @@
 
         // Change text and gif when the Yes button is clicked
         yesBtn.addEventListener("click", () => {
-          question.innerHTML = "You got Rickrolled 😘 (FOLLOW ME @kristel_tech or 7 years bad luck)";
-          gif.src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI1cW5wMWhpaDF5b3pjdTF0OHZrcHJvaGkzOHJteDhmd245OGRnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vuw9m5wXviFIQ/giphy.gif";
+          question.innerHTML = "I love You To!!";
+          gif.src = "https://media.giphy.com/media/PqLcW0s1xWz0ySP6Ed/giphy.gif?cid=790b7611iqv96qigofgcfck1v4ijgqs3wsuqmp5v4w7goudj&ep=v1_gifs_search&rid=giphy.gif&ct=g";
         });
 
         // Make the No button move randomly on hover
